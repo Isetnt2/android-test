@@ -4,7 +4,7 @@
 You should create a simple app that shows metadata for episodes and podcasts. The data that should be used is located locally (`app/src/main/assets`) in the app in this early development stage. The app should cointain the following:
 1. Two lists, one with podcasts and one with episodes. 
 2. A landing page for a podcast
-3. A landing page for a episode
+3. A landing page for an episode
 
 The landing pages should be shown when the user clicks on a list item.
 
