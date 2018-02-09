@@ -43,6 +43,8 @@ The data is located in:
 `app/src/main/assets`
 It cointains two lists. One with podcasts (6 items) and one with episodes (4 items). 
 
+*Remark* - Episode `duration` is in seconds.
+
 ## Requirements
 - It needs to look great in phones (does not matter if it looks bad in tablets)
 - The lists must support a lot of items.
